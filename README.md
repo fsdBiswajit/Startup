@@ -1,6 +1,6 @@
-# Provision
+# Startup
 
-provision is a static responsive website.
+Startup is a static responsive website.
 
 ## Project idea
 
