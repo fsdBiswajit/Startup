@@ -1,0 +1,109 @@
+@media only screen and (min-width: 320px) and (max-width: 479px) {
+  #main-header .nav-bar {
+    display: block;
+    text-align: center;
+  }
+  #main-header .logo {
+    margin-bottom: 1rem;
+  }
+  #main-header .main-nav li a {
+    font-weight: 400;
+    font-size: 0.8rem;
+  }
+  #main-header .main-nav li {
+    padding-right: 0.6rem;
+    padding-left: 0;
+  }
+  #main-header .main-nav {
+    margin-bottom: 1rem;
+  }
+  #main-header .search button {
+    margin-left: 3rem;
+  }
+  #showcase .l-container {
+    flex-direction: column-reverse;
+    padding-bottom: 2rem;
+  }
+  #showcase .text-content {
+    padding-top: 0.6rem;
+    text-align: center;
+  }
+  #showcase .text-content {
+    padding-top: 0.6rem;
+  }
+  #service {
+    flex-direction: column;
+    padding: 0;
+  }
+  #service .card {
+    margin-right: 0;
+    box-shadow: unset;
+  }
+  section#our-experience {
+    padding: 0 0.5rem;
+    flex-direction: column;
+    padding-top: 1rem;
+    text-align: center;
+  }
+  section#our-experience a {
+    align-self: center;
+  }
+  section#our-experience ul {
+    text-align: left;
+  }
+  section#our-experience .experience-img img {
+    display: none;
+  }
+section#our-experience .experience-content {
+  padding-bottom: 2rem;
+}
+section#brands {
+  flex-direction: column;
+}
+section#title {
+  padding-bottom: 3rem;
+}
+section#our-facts {
+  padding: 0;
+  text-align: center;
+}
+section#our-facts {
+  flex-direction: column;
+}
+section#our-facts .items {
+  flex-direction: column;
+}
+section#title-2 {
+  padding: 0;
+}
+section#brands {
+  flex-direction: column;
+  margin: 0;
+}
+section#brands .item {
+  margin-bottom: 2rem;
+}
+footer#main-footer .footer-top .form-group {
+  display: none;
+}
+footer#main-footer .footer-bottom {
+  flex-direction: column;
+  text-align: center;
+}
+footer#main-footer .footer-bottom p {
+  margin: 1rem 0;
+  padding-bottom: 0;
+}
+}
+
+@media only screen and (min-width: 480px) and (max-width: 767px) {
+  ...
+}
+
+@media only screen and (min-width: 768px) and (max-width: 991px) {
+  ...
+}
+
+@media only screen and (min-width: 992px) {
+  ...
+}
